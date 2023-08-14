@@ -9,7 +9,7 @@ public class Runner {
         animals[0] = dog;
         animals[1] = cat;
 
-//        feedTwoAnimals(dog, cat);
+        feedTwoAnimals(dog, cat);
     }
 
     public static void feedTwoAnimals(Animal animal1, Animal animal2){
