@@ -1,4 +1,4 @@
-package oop.polymorphism.basics;
+package oop.polymorphism.interfaces.basics;
 
 public class Car implements Moveable{
     public void move() {
