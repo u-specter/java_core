@@ -16,7 +16,7 @@ public class DogZoo {
     public DogZoo(Poodle poodle, Shepherd shepherd){
         System.out.println("Coonstructor for poodle and shephard");
         this.dog1 = poodle;
-        this.dog2 = shepherd;
+//        this.dog2 = shepherd;
     }
 
 
